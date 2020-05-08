@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## This is a markdown file
 =======
+=======
+>>>>>>> 7a080d7f2f56951691350a646ff1a3fa3c91430c
 ---
 title: "HelloWorld.md"
 author: "Hannah"
@@ -33,4 +36,7 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+<<<<<<< HEAD
+>>>>>>> 7a080d7f2f56951691350a646ff1a3fa3c91430c
+=======
 >>>>>>> 7a080d7f2f56951691350a646ff1a3fa3c91430c
